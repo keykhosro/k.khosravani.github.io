@@ -8,7 +8,7 @@ Cryptography | Blockchain | Secure Communication
 
 ## Education
 **Master's Degree in Cryptography and Secure Communication**  
-[Your University], GPA: 4.0 (Ranked 1st)  
+Sharif University of Technology, GPA: 4.0 (Ranked 1st)  
 Thesis: Privacy-Preserving Protocols and Secure Multi-Party Computation with a focus on Oblivious Transfer
 
 ## Experience
@@ -29,7 +29,13 @@ Thesis: Privacy-Preserving Protocols and Secure Multi-Party Computation with a f
 - Advanced Topics in Cryptography (Perfect Secrecy section), 2024 (grad level)
 
 ## Publications
-[Details of your publications]
+### Optimal Bidding Strategy with Smooth Budget Delivery in Online Advertising
+- Mohammad Afzali, Keykhosro Khosravani, Maryam Babazadeh
+- https://ieeexplore.ieee.org/document/10334752
+
+### Efficient Pairing-Free Adaptable k-out-of-N Oblivious Transfer Protocols
+- Keykhosro Khosravani, Taraneh Eghlidos, Mohammad Reza Aref
+- Under Review
 
 ## Skills
 - Cryptography: Oblivious Transfer, Secure Multiparty Computation
@@ -37,3 +43,5 @@ Thesis: Privacy-Preserving Protocols and Secure Multi-Party Computation with a f
 - Privacy-Preserving Protocols
 - Provable Security
 - Lattice Cryptography
+- FPGA (verilog)
+- python , c , MATLAB
