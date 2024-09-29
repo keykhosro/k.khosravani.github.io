@@ -1,6 +1,6 @@
 # Academic CV Website
 
-This is a personal academic CV webpage for [Your Name], showcasing my background in cryptography, secure communication, blockchain, and privacy-preserving protocols.
+This is a personal academic CV webpage for Keykhosro Khosravani, showcasing my background in cryptography, secure communication, blockchain, and privacy-preserving protocols.
 
 ## Technologies Used:
 - HTML
